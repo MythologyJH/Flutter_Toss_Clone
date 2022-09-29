@@ -2,7 +2,7 @@
 Toss Clone
 
 
-[font] https://spoqa.github.io/spoqa-han-sans/
+**[ font ]** https://spoqa.github.io/spoqa-han-sans/
 
 
-[icon] https://www.flaticon.com/kr/uicons
+**[ icon ]** https://www.flaticon.com/kr/uicons
