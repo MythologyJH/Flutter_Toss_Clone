@@ -7,6 +7,7 @@
   
   
 아래의 이미지는 해당 프로젝트로 만들어진 예제입니다.
+소요시간 약 8시간
 <p>
 <img src="https://github.com/MythologyJH/Flutter_Toss_Clone/blob/main/resource/example_1.png" width="150"> &nbsp
 <img src="https://github.com/MythologyJH/Flutter_Toss_Clone/blob/main/resource/example_2.png" width="150"> &nbsp
